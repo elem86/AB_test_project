@@ -59,3 +59,19 @@ In the A/B test analysis, I completed the following tasks and drew conclusions:
  - Similarly, evaluated the statistical significance of the difference in average order size between the groups using both raw and filtered data, drawing relevant conclusions.
 
  - Finally, based on the comprehensive test results, I made a well-informed decision regarding the next steps for the test, considering options such as stopping the test and declaring a leader, stopping the test due to lack of difference, or continuing the test based on the observed outcomes.
+
+
+
+## Screenshots
+
+![image](https://github.com/elem86/AB_test_project/assets/48759327/ca54dde9-a5a1-49ee-a833-12cc9c69a738)
+
+![image](https://github.com/elem86/AB_test_project/assets/48759327/a96ded24-22d9-4903-ba34-b50518636d04)
+
+![image](https://github.com/elem86/AB_test_project/assets/48759327/8330a0b2-8d66-4365-b40b-d6654e0c6038)
+
+![image](https://github.com/elem86/AB_test_project/assets/48759327/8ec261e8-78dd-4d07-b831-be08556dc992)
+
+
+
+
