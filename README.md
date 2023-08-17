@@ -60,7 +60,21 @@ In the A/B test analysis, I completed the following tasks and drew conclusions:
 
  - Finally, based on the comprehensive test results, I made a well-informed decision regarding the next steps for the test, considering options such as stopping the test and declaring a leader, stopping the test due to lack of difference, or continuing the test based on the observed outcomes.
 
+## Technologies
 
+ - Pandas: Pandas is a powerful data manipulation library in Python. It provides data structures and functions needed to work with structured data seamlessly. Usedit it to read, manipulate, and analyze data stored in tabular formats.
+
+ - NumPy: NumPy is a fundamental package for numerical computations in Python. It provides support for arrays, matrices, and mathematical functions, making it essential for data manipulation and scientific computations.
+
+ - Matplotlib: Matplotlib is a widely-used data visualization library in Python. It's used to create various types of plots and graphs to represent your data visually. Used it to generate graphs for cumulative revenue, average order size, conversion rates, and other visualizations.
+
+ - matplotlib.patches: This module in Matplotlib provides objects for drawing shapes like rectangles, circles, and polygons on the plots. It could be used for adding annotations or highlights to your visualizations.
+
+ - %matplotlib inline: This is a magic command that allows Matplotlib plots to be displayed directly in the notebook interface, making it easier to visualize data.
+
+ - matplotlib as mpl: Imported Matplotlib as 'mpl', which can be useful to reference the library with a shorter name in your code.
+
+ - scipy.stats: SciPy is a library for mathematics, science, and engineering. The stats module within SciPy contains a wide range of statistical functions and tests. Performed  hypothesis testing using SciPy.
 
 ## Screenshots
 
